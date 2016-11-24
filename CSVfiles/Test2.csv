@@ -1,0 +1,28 @@
+#GTC Trusted Resource
+userId,firstname,lastname,email,organization,userType,employeeType,usr_status,partyID
+GTCTESTUSER1,,GTCtest_11112016_257,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+00003,,LN00003_11112016,LN00003@ORACLE.AST.COM,Xellerate Users,End-User,OTHER,Active,00008
+STARUSER123,,StarUser123,StarUser123@ASTCORP.COM_11112016,Xellerate Users,End-User,OTHER,Active,
+SURGCALSTRIKE1,,GTCtestuserLastname1111,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+0000344,,LN00003_11112016,LN00003@ORACLE.AST.COM,Xellerate Users,End-User,OTHER,Active,00008
+TESTUSER2@TEST.COM,testuser2,testuser2,testuser2@test.com,Xellerate Users,End-User,EMP,Active,12345
+TESTTODAY123,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+TESTTODAY1234,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+LOCAL_GTCTESTUSER1,,GTCtestuserLastname1111,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+00005,,LN00005,00005@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+00011,,LN00011,00011@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+TESTUSER1@TEST.COM,testuser1,testuser1,testuser1@test.com,Xellerate Users,End-User,EMP,Active,786
+00002,,LN00002,00002@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+00006,,LN00006,00006@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+00008,,LN00008,00008@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+00009,,LN00009,00009@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+00010,,LN00010,00010@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+TESTTODAY123456,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Deleted,
+TESTTO123,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Deleted,
+TESTTODAY12345,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+LN00001@ORACLE123.COM,,LN00001_updatedforPOC,LN00001@ORACLE.AST.COM,Xellerate Users,End-User,EMP,Disabled,P00001
+ASDUSERQW,,GTCtest_11112016_257,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+AWUSER8766,,GTCtest_11112016_257,,Xellerate Users,End-User,Full-Time,Active,
+AWUSER876,,GTCtest_11112016_257,,Xellerate Users,End-User,Full-Time,Active,
+DUDHERE1@SERENECORP.COM,Dygvijay,Dhere,dudhere@serenecorp.com,Xellerate Users,End-User,EMP,Active,1
+LN00001@ORACLE.COM,,LN00001_updatedforPOC,LN00001@ORACLE.AST.COM,Xellerate Users,End-User,EMP,Disabled,11112016_257

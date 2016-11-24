@@ -1,0 +1,135 @@
+2016-11-21 13:24:11 INFO  ASTCustomLogger:39 - -----------Utility Execution Started--------------
+2016-11-21 13:24:11 INFO  ASTCustomLogger:39 - :: getDBConnection :: 
+2016-11-21 13:24:11 INFO  ASTCustomLogger:39 - Successfully connected to DB :: jdbc:oracle:thin:@192.168.56.110:1521:orcl
+2016-11-21 13:24:11 INFO  ASTCustomLogger:39 - :: readDBData :: 
+2016-11-21 13:24:11 INFO  ASTCustomLogger:39 - User data not found :: finalcsvList[]
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - -----------Utility Execution Started--------------
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - :: getDBConnection :: 
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Successfully connected to DB :: jdbc:oracle:thin:@192.168.56.110:1521:orcl
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - :: readDBData :: 
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::LN00001@ORACLE.COM,,LN00001_updatedforPOC,LN00001@ORACLE.AST.COM,Xellerate Users,End-User,EMP,Disabled,11112016_257
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::DUDHERE1@SERENECORP.COM,Dygvijay,Dhere,dudhere@serenecorp.com,Xellerate Users,End-User,EMP,Active,1
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::AWUSER876,,GTCtest_11112016_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::AWUSER8766,,GTCtest_11112016_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::ASDUSERQW,,GTCtest_11112016_257,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::LN00001@ORACLE123.COM,,LN00001_updatedforPOC,LN00001@ORACLE.AST.COM,Xellerate Users,End-User,EMP,Disabled,P00001
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY12345,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTO123,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Deleted,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY123456,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Deleted,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00010,,LN00010,00010@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00009,,LN00009,00009@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00008,,LN00008,00008@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00006,,LN00006,00006@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00002,,LN00002,00002@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTUSER1@TEST.COM,testuser1,testuser1,testuser1@test.com,Xellerate Users,End-User,EMP,Active,786
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00011,,LN00011,00011@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00005,,LN00005,00005@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::LOCAL_GTCTESTUSER1,,GTCtestuserLastname1111,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY1234,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY123,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTUSER2@TEST.COM,testuser2,testuser2,testuser2@test.com,Xellerate Users,End-User,EMP,Active,12345
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::0000344,,LN00003_11112016,LN00003@ORACLE.AST.COM,Xellerate Users,End-User,OTHER,Active,00008
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::SURGCALSTRIKE1,,GTCtestuserLastname1111,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::STARUSER123,,StarUser123,StarUser123@ASTCORP.COM_11112016,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::00003,,LN00003_11112016,LN00003@ORACLE.AST.COM,Xellerate Users,End-User,OTHER,Active,00008
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Retrived User Data ::GTCTESTUSER1,,GTCtest_11112016_257,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - :: createCSV :: 
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Creating CSV fileD:/CAPWorkspace/GTC_POC/CSVfiles/Test2.csv
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Creation of CSV file done!! You may validate it before running GTC
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - :: updatePropertyFile :: 
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Updating property file./files/OIMProp.properties
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Existing OIM_DB_START_DATE  ::08-Nov-16
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - New OIM_DB_START_DATE  ::21-Nov-16
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - Property file Successfully Updated..
+2016-11-21 13:24:24 INFO  ASTCustomLogger:39 - -----------Utility Exit--------------
+2016-11-24 22:05:35 INFO  ASTCustomLogger:39 - -----------Utility Execution Started--------------
+2016-11-24 22:05:35 INFO  ASTCustomLogger:39 - :: getDBConnection :: 
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Successfully connected to DB :: jdbc:oracle:thin:@192.168.56.110:1521:orcl
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - :: readDBData :: 
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::GTCTESTUSER1,,GTCtest_11112016_257,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00003,,LN00003_11112016,LN00003@ORACLE.AST.COM,Xellerate Users,End-User,OTHER,Active,00008
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::STARUSER123,,StarUser123,StarUser123@ASTCORP.COM_11112016,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::SURGCALSTRIKE1,,GTCtestuserLastname1111,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::0000344,,LN00003_11112016,LN00003@ORACLE.AST.COM,Xellerate Users,End-User,OTHER,Active,00008
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTUSER2@TEST.COM,testuser2,testuser2,testuser2@test.com,Xellerate Users,End-User,EMP,Active,12345
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY123,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY1234,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::LOCAL_GTCTESTUSER1,,GTCtestuserLastname1111,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00005,,LN00005,00005@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00011,,LN00011,00011@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTUSER1@TEST.COM,testuser1,testuser1,testuser1@test.com,Xellerate Users,End-User,EMP,Active,786
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00002,,LN00002,00002@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00006,,LN00006,00006@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00008,,LN00008,00008@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00009,,LN00009,00009@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::00010,,LN00010,00010@ASTCORP.COM,Xellerate Users,End-User,OTHER,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY123456,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Deleted,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTO123,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Deleted,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::TESTTODAY12345,,GTCtest_TestToday123_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::LN00001@ORACLE123.COM,,LN00001_updatedforPOC,LN00001@ORACLE.AST.COM,Xellerate Users,End-User,EMP,Disabled,P00001
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::ASDUSERQW,,GTCtest_11112016_257,testuserf1.testuserl1@email.com,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::AWUSER8766,,GTCtest_11112016_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::AWUSER876,,GTCtest_11112016_257,,Xellerate Users,End-User,Full-Time,Active,
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::DUDHERE1@SERENECORP.COM,Dygvijay,Dhere,dudhere@serenecorp.com,Xellerate Users,End-User,EMP,Active,1
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Retrived User Data ::LN00001@ORACLE.COM,,LN00001_updatedforPOC,LN00001@ORACLE.AST.COM,Xellerate Users,End-User,EMP,Disabled,11112016_257
+
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - :: createCSV :: 
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Creating CSV fileD:/CAPWorkspace/GTC_POC/CSVfiles/Test2.csv
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Creation of CSV file done!! You may validate it before running GTC
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - :: updatePropertyFile :: 
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Updating property fileD:/CAPWorkspace/GTC_POC/files/OIMProp.properties
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - Existing OIM_DB_START_DATE  ::08-Nov-16
+2016-11-24 22:05:36 INFO  ASTCustomLogger:39 - New OIM_DB_START_DATE  ::24-Nov-16
+2016-11-24 22:05:37 INFO  ASTCustomLogger:39 - Property file Successfully Updated..
+2016-11-24 22:05:37 INFO  ASTCustomLogger:39 - -----------Utility Exit--------------
